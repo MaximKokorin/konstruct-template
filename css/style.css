@@ -112,6 +112,7 @@ header{
 .el_menu{
     text-decoration: none;
     letter-spacing: 1.09px;
+    color: inherit;
 }
 .el_menu:hover{
     color: #00A4E5;
