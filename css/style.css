@@ -668,7 +668,7 @@ span{
 }
 footer{
     max-width: 1920px;
-    min-height: 300px;
+    max-height: 300px;
     background-color: #141A20;
 }
 .container_footer {
@@ -754,8 +754,6 @@ footer{
     text-transform: uppercase;
     color: #fff;
     margin-bottom: 15px;
-}
-.contact_us_col {
 }
 .contact_us_li {
     font-family: 'Open Sans';
